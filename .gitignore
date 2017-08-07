@@ -93,5 +93,7 @@ ENV/
 .ropeproject
 
 # settings - key, secret
-/settings.py
+settings.py
 
+# pycharm .idea
+.idea
