@@ -17,3 +17,6 @@ CLIENT_SECRET = 'XXXXX'
 // 분석할 사진 path를 argument로 전달
 python cfr.py iu.jpg
 ```
+
+## 결과 화면
+![결과 화면](https://raw.githubusercontent.com/grepsean/naver-clova-test/master/result.png)
